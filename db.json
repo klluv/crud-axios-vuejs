@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Uchiha Sasuke",
+      "phone": "0895421175492",
+      "address": "jogja"
+    },
+    {
+      "id": 2,
+      "name": "Haruno Sakura",
+      "phone": "085643287212",
+      "address": "bantul"
+    },
+    {
+      "id": 3,
+      "name": "Hatake Kakashi",
+      "phone": "088123856439",
+      "address": "sleman"
+    },
+    {
+      "id": 4,
+      "name": "sabdsabdkjs",
+      "phone": "0983747032",
+      "address": "blablablbal"
+    }
+  ]
+}
