@@ -1,5 +1,0 @@
-1. file terpisah (edit, tampil data, tambah)
-2. tambahkan info jika data kosong
-3. konfirmasi hapus
-4. memunculkan info (hapus, update)
-5. loading 
